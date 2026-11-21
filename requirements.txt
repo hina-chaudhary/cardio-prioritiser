@@ -3,3 +3,4 @@ pandera
 pytest
 scikit-learn
 lifelines
+streamlit
